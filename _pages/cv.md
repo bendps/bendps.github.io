@@ -11,30 +11,74 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Seabirds spatial and conservation biology, La Rochelle Université, 2022-2025
+* M.S. in Ecology, Ecole Normale Supérieure de Lyon, 2021
+* B.S. in Biology, Ecole Normale Supérieure de Lyon, 2019
+* 1st and 2nd years of B.S in Biology, Université Paris-Sud
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022 (6 months)
+  * CEBC - Chizé, France
+  * Estimating energy expanses of Adelie penguins from depth derived parameters
+  * Supervisors: Yan Ropert-Coudert, Akiko Kato & Marianna Chimienti
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021 (4 months)
+  * PINP - Phillip Island, Australia
+  * Effect of human activities on the ecology of little penguins
+  * Supervisors: André Chiaradia, Akiko Kato & Marianna Chimienti
+  
+* Spring 2021 (5 months)
+  * CEFE - Montpellier, France
+  * Nest predation effect on demographic and social traits in the sociable weavers
+  * Supervisors: Claire Doutrelant, Rita Covas, Pietro D'Amelio
+  
+* Spring 2020 (5 months)
+  * Norwegian Polar Institute - Tromso, Norway
+  * Study of the interactions between northen fulmars and fisheries using GLS
+  * Supervisors: Françoise Amélineau
+  
+* Spring 2019 (2 months)
+  * IGFL - Lyon, France
+  * Is red color of water strider embryos a protection against predation?
+  * Supervisors: Abderrahman Khila
+  
+* Spring 2018 (2 months)
+  * IEES - Paris, France
+  * Effects of urbanization on color and personnality of great tits and its link with fitness
+  * Supervisors: Clotilde Biard
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming language
+  * R
+  * Python
+  * Netlogo
+  
+* Data analysis
+  * Mixed models
+  * Hidden Markov models
+  * Machine learning
+  
+* Biologging
+  * GPS
+  * GLS
+  * TDR
+  * Accelerometers
+  
+* Experimental and lab
+  * Stable isotopes
+  * Behavioural study
+  * Nest monitoring
+
+* Science writing and sharing
+  * Zotero
+  * Latex
+  * Markdown
+  * Office
+  * Inkscape
+  * Gimp
+  * Git
 
 Publications
 ======
